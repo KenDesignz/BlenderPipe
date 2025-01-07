@@ -3,7 +3,7 @@ import bpy
 import os, sys, select, time, pickle
 from multiprocessing import shared_memory
 
-sys.path.append('/Users/ken/Documents/Projects/RetroDev/PS1/PSXBlender/')
+sys.path.append('dummypath')
 from BlenderState import BlenderState, Object, Material
 from Connection import Connection
 
